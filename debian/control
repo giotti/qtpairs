@@ -1,4 +1,4 @@
-Source: qt-pairs-1.0
+Source: qtpairs
 Section: comm
 Priority: optional
 Maintainer: giotti <@>
@@ -8,7 +8,7 @@ Homepage: http://www.qtmoko.org
 Vcs-Git: git://github.com/giotti/qtmoko.git
 Vcs-Browser: https://github.com/giotti/qtmoko
 
-Package: qt-pairs-1.0
+Package: qtpairs
 Architecture: any
 Depends: 
 Description: A pairs game

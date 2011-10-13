@@ -10,6 +10,6 @@ SOURCES += TBlock.cpp \
  #\
  #   TMainForm.cpp
 
-RESOURCES += qt-pairs.qrc
-TRANSLATIONS += translations/qt-pairs_en.ts translations/qt-pairs_ru.ts
+RESOURCES += qtpairs.qrc
+TRANSLATIONS += translations/qtpairs_en.ts translations/qtpairs_ru.ts
 QT += xml

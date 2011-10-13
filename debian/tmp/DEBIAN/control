@@ -1,9 +1,0 @@
-Package: qt-pairs-1.0
-Version: 32-1
-Architecture: amd64
-Maintainer: giotti <@>
-Installed-Size: 2224
-Section: comm
-Priority: optional
-Homepage: http://www.qtmoko.org
-Description: A pairs game

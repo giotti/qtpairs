@@ -1,5 +1,5 @@
 TEMPLATE=app
-TARGET=qt-pairs
+TARGET=qtpairs
 
 CONFIG+=qtopia
 DEFINES+=QTOPIA
@@ -10,7 +10,7 @@ LANGUAGES=en_US
 
 # Package info
 pkg [
-    name=qt-pairs
+    name=qtpairs
     desc="Find pairs game"
     license=GPLv2
     version=1.0
@@ -29,8 +29,8 @@ SOURCES=\
     TBlock.cpp\
     TGameBoard.cpp
 
-RESOURCES += qt-pairs.qrc
-TRANSLATIONS += translations/qt-pairs_en.ts
+RESOURCES += qtpairs.qrc
+TRANSLATIONS += translations/qtpairs_en.ts
 
 QT += xml
 
@@ -42,13 +42,13 @@ target [
 
 desktop [
     hint=desktop
-    files=qt-pairs.desktop
+    files=qtpairs.desktop
     path=/apps/Games
 ]
 
 pics [
     hint=pics
     files=pics/*
-    path=/pics/qt-pairs
+    path=/pics/qtpairs
 ]
 

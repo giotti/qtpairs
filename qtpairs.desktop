@@ -1,13 +1,13 @@
 [Desktop Entry]
-Name[]=qt-pairs
+Name[]=qtpairs
 Comment[]=A pairs game
-Exec=qt-pairs
+Exec=qtpairs
 Terminal=false
 Type=Application
 Categories=Game;
-Icon=qt-pairs/qt-pairs
+Icon=qtpairs/qtpairs
 MimeType=""
 MimeTypeIcons=""
 [Translation]
 File=QtopiaGames
-Context=qt-pairs
+Context=qtpairs
